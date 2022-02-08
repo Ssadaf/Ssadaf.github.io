@@ -49,16 +49,16 @@
   color: #777777;
 }
 
-p a {
+/*p a {
   color: rgba(255, 255, 255, 0.582);
   text-decoration: none;
-}
+}*/
 
-p a:hover {
+/*p a:hover {
   color: #557799;
   transition-duration: 300ms;
   text-decoration: none;
-}
+}*/
 
 .profile {
   width: 60vmin;
